@@ -22,7 +22,7 @@ const Header = props => (
               props.onOpenArticle('intro')
             }}
           >
-            Intro
+            ID Oracle
           </button>
         </li>
         <li>
