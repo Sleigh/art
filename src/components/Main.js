@@ -28,30 +28,14 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Intro</h2>
+          <h2 className="major">ID Oracle</h2>
           <span className="image main">
             <img src={pic01} alt="" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
+            The Intuitive Discovery (ID) Oracle Deck is an oracle deck with the beginner in mind. Art for the deck was created intuitively on woodboard with mixed media elements. Each card is meant to inspire you - whether that's on what you should make for dinner or how to approach a situation.  My goal for the deck is to increase the joy you have in your life.
           </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
-          </p>
+          <p>Currently the deck is for sale on <a href="https://www.etsy.com/shop/ImKnotTangled">Etsy</a>, when stock is available.</p>
           {close}
         </article>
 
@@ -67,19 +51,10 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
+           <a href="https://www.skillshare.com/user/imknottangled">Skillshare Classes</a>
           </p>
           <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
+          <a href="https://creativemarket.com/imknottangled">Fonts on Creative Market</a>
           </p>
           {close}
         </article>
@@ -96,13 +71,19 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
-            eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam
-            erat volutpat. Praesent urna nisi, fringila lorem et vehicula
-            lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
-            Aliquam libero et malesuada fames ac ante ipsum primis in faucibus.
-            Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit
-            amet.
+          Growing up, there was always art. It wasn’t ART, in all capital letters, demanding to be heard, but instead art. My father’s pottery was in the bathroom – but he was also an Accountant. My mother would draw on the walls for fun, and she was a Physician Assistant. I made scrapbooks with my grandma and learned to crochet from my great aunts. It wasn’t weird or unusual – it was simple. Like breathing. It was something you did.
+
+I learned to paint after my mom died from a lovely woman who was also an M.D. She encouraged me to take risks in my work and try every medium. Most of my paintings were given away as gifts.
+
+During this time, I never considering myself an artist. Art was just something I did, especially around birthdays, Christmas, and once a year for Art All Night in Pittsburgh.
+
+In early 2014, I started to draw again, but this time more consistently. It was fun! I began blogging and trying other mediums again. I joined the Society of Bluffton Artists and have learned about displaying my art.
+
+I know now that art is not something that I just do, it is a part of who I am.  I am an artist.
+
+
+
+I have sold  all over the United States – and now have several pieces in Europe!
           </p>
           {close}
         </article>
