@@ -5,6 +5,7 @@ module.exports = {
     description: 'About Im Knot Tangled and the Intuitive Discovery Oracle Deck',
   },
   plugins: [
+    `gatsby-plugin-gatsby-cloud`,
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
@@ -19,5 +20,6 @@ module.exports = {
       },
     },
     'gatsby-plugin-sass',
+    
   ],
 }
